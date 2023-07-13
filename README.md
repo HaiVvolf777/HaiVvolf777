@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haivvolf777&label=Profile%20views&color=0e75b6&style=flat" alt="haivvolf777" /> </p>
 
-- 🌱 I’m currently learning **React , Ethereum , Solidity**
+- 🌱 I’m currently learning **Ethereum , Solidity , Blockchain**
 
-- 💬 Ask me about **Tailwind , Go**
+- 💬 Ask me about **JavaScript, React , Next ,Tailwind , MUI , Bulma , Go **
 
 - 📫 How to reach me **Haiwolf777@gmail.com**
 
