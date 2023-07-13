@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Ethereum , Solidity , Blockchain**
 
-- 💬 Ask me about **JavaScript, React , Next ,Tailwind , MUI , Bulma , Go **
+- 💬 Ask me about **JavaScript, React , Next ,Tailwind , MUI , Bulma , Go**
 
 - 📫 How to reach me **Haiwolf777@gmail.com**
 
