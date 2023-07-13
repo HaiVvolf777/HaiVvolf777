@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haivvolf777&label=Profile%20views&color=0e75b6&style=flat" alt="haivvolf777" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haivvolf777" alt="haivvolf777" /></a> </p>
-
 - 🔭 I’m currently working on [StickFigures](https://dev.stickfigures.com/)
 
 - 🌱 I’m currently learning **Ethereum , Solidity , Blockchain**
